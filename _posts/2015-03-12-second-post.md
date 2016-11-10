@@ -9,7 +9,7 @@ image: true
 
 
 
-Comentarios **Blog** , Bienvenidos Comentarios.
+Comentarios **Bloggggg** , Bienvenidos Comentarios.
 
 {% if page.image %}
 <div class="post-img">
